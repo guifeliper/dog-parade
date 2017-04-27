@@ -1,0 +1,9 @@
+{
+  "name": "dog-parede",
+  "version": "1.0.0",
+  "description": "My first project outside the Edit in HTML/CSS/JS",
+  "scripts": {
+    "server": "http-server"
+  },
+  "license": "ISC"
+}
