@@ -91,9 +91,9 @@ body {
 }
 
 .search-button{
-    background: url(img/search_button.png) no-repeat center center scroll;
-    height: 40px;
-    background-color: #fff;
+    /*background: url(img/search_button.png) no-repeat center center scroll;
+    */height: 40px;
+    background-color: blue;
     
 }
 /* Custom Button Styles */
